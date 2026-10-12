@@ -42,6 +42,20 @@
 | 环境 | Jupyter Notebook |
 
 ---
+项目结构
+ecommerce-purchase-prediction/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── notebooks/
+│   └── ecommerce_purchase_prediction.ipynb
+├── data/
+│   ├── raw/.gitkeep
+│   └── processed/.gitkeep
+└── figures/
+    ├── *.png
+
+---
 
 ## 主要工作
 
