@@ -42,7 +42,8 @@
 | 环境 | Jupyter Notebook |
 
 ---
-项目结构
+## 项目结构
+```
 ecommerce-purchase-prediction/
 ├── README.md
 ├── requirements.txt
@@ -53,7 +54,8 @@ ecommerce-purchase-prediction/
 │   ├── raw/.gitkeep
 │   └── processed/.gitkeep
 └── figures/
-    ├── *.png
+    └── *.png
+```
 
 ---
 
